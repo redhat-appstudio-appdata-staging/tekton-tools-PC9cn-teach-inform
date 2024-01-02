@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/gbenhaim-tenant/tekton-tools/test-container@sha256:17265947cb594f1f7452fcb7713bf86942fa934c7a94b03758fadae36f5840c9
+      - image: quay.io/redhat-user-workloads-stage/gbenhaim-tenant/tekton-tools/test-container@sha256:d96f1f0dc7ecf5383a45fa2695ba58c8c7b01b626c77a9bf59065d6e808e7c59
         name: container-image
         resources: {}
 status: {}
