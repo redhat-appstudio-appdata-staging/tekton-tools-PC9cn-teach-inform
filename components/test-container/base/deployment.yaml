@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: test-container
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/gbenhaim-tenant/tekton-tools/test-container@sha256:8f7eb2226d3da379b5d3782a1231924d4334ca9573764da11e019a1d1fb16271
+      - image: quay.io/redhat-user-workloads-stage/gbenhaim-tenant/tekton-tools/test-container@sha256:10d62199337c95acc5a1a5041c622bd99afdb3dfa083214ccfba4b2d211547b3
         imagePullPolicy: Always
         name: container-image
         resources: {}
